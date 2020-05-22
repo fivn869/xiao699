@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40280aca-643e-4a6b-8ba2-7d1131ab7557" name="Default Changelist" comment="" />
+    <list default="true" id="40280aca-643e-4a6b-8ba2-7d1131ab7557" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +18,11 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cAiaVsyU5tMCp1C1VW6msqzqcI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589977861453</updated>
       <workItem from="1589977879848" duration="6687000" />
-      <workItem from="1590090956104" duration="3799000" />
+      <workItem from="1590090956104" duration="7292000" />
     </task>
     <servers />
   </component>
@@ -71,30 +84,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1590143972450">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1590170297729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1590143972450" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1590143972448">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1590170297729" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1590170297729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1590143972448" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1590143972447">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1590170297729" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1590170297729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1590143972447" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1590143972449">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1590170297729" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1590170297729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1590143972449" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1590170297729" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1590090992561">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590090992561" />
-    <state x="557" y="569" width="1034" height="584" key="dock-window-1" timestamp="1590141520846">
+    <state x="732" y="167" width="1034" height="584" key="dock-window-1" timestamp="1590170400683">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="557" y="569" width="1034" height="584" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1590141520846" />
+    <state x="732" y="167" width="1034" height="584" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1590170400683" />
     <state x="649" y="667" width="927" height="306" key="dock-window-2" timestamp="1590142188663">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
